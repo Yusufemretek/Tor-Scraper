@@ -35,6 +35,3 @@ go run main.go
 ```bash
 go build -o tor-scrapper
 ```
-
-Configuration
--------------
